@@ -37,15 +37,11 @@ https://hub.docker.com/repository/docker/wkd1598/janginsung-django-chatbot
 
 ### user
 
-todo list에서 사용자가 완료했다고 체크된 일정에 대한 내용이 추가됩니다.
-내용에 대한 기본적인 CRUD도 가능합니다.
+사용자에 대한 로그인 기능 및 기본적인 CRUD 구현
 
 ### chatbot
 
-리뷰에서는 todolist에서 수행했다고 체크된 일정, 즉 히스토리를 "루틴"화 하여 추천 시스템에 등록할 수 있습니다. 
-
-비슷한 일정이 반복되어 체크되는지 확인하여 비슷한 내용의 루틴이 존재한다면,  그 루틴을 점점 강화시서 자동으로 생성합니다.
- 
+todolist와 suggestion 데이터 등 jarviis 시스템에 대한 모든 데이터를 챗봇 시스템을 통해 사용자에게 전달 하였습니다.
 
 ***
 
