@@ -4,7 +4,7 @@
 ## 참고 링크
 　<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
-https://youtu.be/xUKj3qzYAXw
+https://www.youtube.com/watch?v=LsVk2ZOLREA&t=8s
 
 　<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
@@ -12,7 +12,7 @@ https://hub.docker.com/repository/docker/ajh2627/diary
 
 ## 개발자
 
-안주현
+장인성
 
 ## 프로젝트 소개
 ***
