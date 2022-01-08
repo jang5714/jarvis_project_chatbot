@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=LsVk2ZOLREA&t=8s
 
 　<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-https://hub.docker.com/repository/docker/ajh2627/diary
+https://hub.docker.com/repository/docker/wkd1598/janginsung-django-chatbot
 
 ## 개발자
 
@@ -36,21 +36,17 @@ https://hub.docker.com/repository/docker/ajh2627/diary
 ***
 ## 담당 기능
 
-### History
+### user
 
 todo list에서 사용자가 완료했다고 체크된 일정에 대한 내용이 추가됩니다.
 내용에 대한 기본적인 CRUD도 가능합니다.
 
-### Review
+### chatbot
 
 리뷰에서는 todolist에서 수행했다고 체크된 일정, 즉 히스토리를 "루틴"화 하여 추천 시스템에 등록할 수 있습니다. 
 
 비슷한 일정이 반복되어 체크되는지 확인하여 비슷한 내용의 루틴이 존재한다면,  그 루틴을 점점 강화시서 자동으로 생성합니다.
  
-
-### Diary
-마지막은 다이어리 기능입니다.
-다이어리에서는 하루 동안의 수행한 계획인 히스토리를 기반으로 인공지능이 자동으로 일기를 작성해줍니다. 사용자는 이 기능을 통해 본인의 하루를 자동으로 기록화 할 수 있습니다.
 
 ***
 
